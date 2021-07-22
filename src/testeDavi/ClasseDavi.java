@@ -18,4 +18,13 @@ public class ClasseDavi {
 	  System.out.println("okk");
  }
 
+  private void novoMetodo() {
+    System.out.println("Daniel Lima");
+    System.out.println("Daniel Lima");
+  }
+
+  private void novoMetodo2() {
+    System.out.println("Daniel Lima");
+    System.out.println("Daniel Lima");
+  }
 }
