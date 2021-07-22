@@ -19,4 +19,14 @@ public class ClasseDavi {
     System.out.println("Daniel Lima");
     System.out.println("Daniel Lima");
   }
+
+  private void novoMetodo3() {
+    System.out.println("Daniel Lima");
+    System.out.println("Daniel Lima");
+  }
+
+  private void novoMetodo4() {
+    System.out.println("Daniel Lima");
+    System.out.println("Daniel Lima");
+  }
 }
