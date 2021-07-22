@@ -10,6 +10,14 @@ public class ClasseDavi {
     System.out.println("Daniel Lima ALencar");
   }
 
+
+  
+  private void novoMetodo() {
+	  System.out.println("DAvi Ranieri");
+	  System.out.println("Daniel Lima");
+	  System.out.println("okk");
+ }
+
   private void novoMetodo() {
     System.out.println("Daniel Lima");
     System.out.println("Daniel Lima");
