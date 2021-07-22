@@ -9,4 +9,6 @@ public class ClasseDavi {
   private void escreveNome() {
     System.out.println("Daniel Lima ALencar");
   }
+	private void novoMetodo(){
+	}
 }
